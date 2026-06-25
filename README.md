@@ -5,7 +5,7 @@ Fun fact, this is an original idea of mines and it takes small inspiration from 
 popular instagram app. And I will only be completing a login page for 
 now until I get more ideas for how I want it to look.
 
-Firstly, like always wwe have to set up our html document.
+Firstly, like always we have to set up our html document.
 
 Then, the name of the website/app that I want to create.
 
@@ -19,7 +19,7 @@ We make them feel welcome to sign up and create an account
 
 Lastly, for html I add my signature at the bottom
 
-Now we make it look pretty. This is why we used classes to section of parts
+Now we make it look pretty. This is why we used divs and classes to section of parts
 of the project to effectively style it. I needed to add more to get it to my liking
 but others may want it to look more simple.
 
